@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+#container{
+    width: 1200px;
+    margin: 0 auto;
+    }
+
+.header{
+    text-align: center;
+}
+
+.titreheader{
+    border-top: thin solid black;
+    border-bottom: thin solid black;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.nav {
+    padding: 10px 0 50px 0;
+    list-style-type: none;
+    margin-left: 41%;
+}
+
+.navitem {
+    float: left;
+    margin-right: 10px;
+}
+
+.navitem a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    }
+
+.exemplePlat{
+  
+    float: right;
+    list-style-type: none;
+    text-align: right;
+    width: 52%;
+    position: absolute;
+    top: 66%;}
+
+.imgauche{
+    float: left;
+    width: 600px;
+}
+
+.gauche{
+    width: 600px;
+    float: left;
+    height: 60px;
+    padding-top: 350px;
+    
+}
+
+.droite{
+    width: 600px;
+    float: left;
+    height: 60px;
+    padding-top: 185px;
+    }
+
+.clear{
+    clear: both;
+}
+
+p{    
+    width: 500px;
+    padding-top: 14px;
+}
+
+h3{
+    letter-spacing: 9px;
+    text-transform: uppercase;
+    font-size: 25px;
+    border-bottom: 2px solid black;
+    margin-right: 43px;
+    height: 33px;
+   }
+
+.gauche1{
+    width: 600px;
+    float: left;
+    height: 60px;
+    padding-top: 350px;
+}
+
+.droite2{
+    width: 600px;
+    float: left;
+    height: 60px;
+    padding-top: 185px;
+}
+
+.imgauche1{
+    float: right;
+    width: 600px;
+}
